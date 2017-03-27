@@ -1,2 +1,2 @@
 sudo: required
-script: chmod 700 run.sh; ./run.sh
+script: chmod 777 run.sh; sudo ./run.sh
