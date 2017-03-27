@@ -1,4 +1,2 @@
 sudo: required
-services:
-  - docker
 script: chmod 700 run.sh; ./run.sh
